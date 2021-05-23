@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AuctionApp/static/css/main.b100e6da.chunk.css",
+    "main.js": "/AuctionApp/static/js/main.8906f067.chunk.js",
+    "main.js.map": "/AuctionApp/static/js/main.8906f067.chunk.js.map",
+    "runtime-main.js": "/AuctionApp/static/js/runtime-main.3e6a917d.js",
+    "runtime-main.js.map": "/AuctionApp/static/js/runtime-main.3e6a917d.js.map",
+    "static/js/2.a78fbedf.chunk.js": "/AuctionApp/static/js/2.a78fbedf.chunk.js",
+    "static/js/2.a78fbedf.chunk.js.map": "/AuctionApp/static/js/2.a78fbedf.chunk.js.map",
+    "index.html": "/AuctionApp/index.html",
+    "precache-manifest.08d7d6fe59d210bb275acb37875c1cf8.js": "/AuctionApp/precache-manifest.08d7d6fe59d210bb275acb37875c1cf8.js",
+    "service-worker.js": "/AuctionApp/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/AuctionApp/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6a917d.js",
+    "static/js/2.a78fbedf.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.8906f067.chunk.js"
+  ]
+}
